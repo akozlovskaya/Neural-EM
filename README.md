@@ -1,4 +1,4 @@
-**NEM**
+**Neural-EM**
 
 Implementation of the EM-algorithm with the replacement of the M-step by a neural network.  
 The work is based on the paper https://arxiv.org/abs/1708.03498.  
